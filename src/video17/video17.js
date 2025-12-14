@@ -1,0 +1,1 @@
+console.log("This is video 17 JavaScript file.");
